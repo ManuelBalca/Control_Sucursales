@@ -22,7 +22,6 @@ router.post('/agregarEmpresa', [
 
 router.put('/editarEmpresa', [
     validarJWT,
-
     validarCampos
 ] , putEmpresa);
 

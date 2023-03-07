@@ -8,3 +8,7 @@ Para instalar las dependencias del proyecto usar el comando:
 ```
 npm install
 ```
+Video de la explicacion
+```
+https://www.youtube.com/watch?v=9OdOB9cblLI
+```
